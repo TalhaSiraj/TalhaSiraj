@@ -1,6 +1,5 @@
+h1 align="center">Hi 👋, I'm Talha Siraj</h1>
 <h3 align="center">I'm a Project Manager and Software Engineer!!</h3>
-
-
 
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
 
@@ -11,8 +10,6 @@
 - 🔭 **I’m currently learning Unity and Azure DevOps.**
 
 - ⚡ **I love designing custom computer systems.**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhasiraj&show_icons=true&locale=en&layout=compact" alt="talhasiraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhasiraj&" alt="talhasiraj" /></p>
-
