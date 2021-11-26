@@ -1,5 +1,7 @@
 <h3 align="center">I'm a Project Manager and Software Engineer!!</h3>
 
+
+
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
 
 - 🌱 **2021 Goals are to contribute more to open-source projects.**
@@ -9,6 +11,8 @@
 - 🔭 **I’m currently learning Unity and Azure DevOps.**
 
 - ⚡ **I love designing custom computer systems.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
