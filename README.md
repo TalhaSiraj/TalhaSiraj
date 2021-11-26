@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Talha Siraj</h1>
+<h1 align="center">Hi 👋, I'm Talha Siraj</h1>
 <h3 align="center">I'm a Project Manager and Software Engineer!!</h3>
 
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
