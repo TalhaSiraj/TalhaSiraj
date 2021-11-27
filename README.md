@@ -1,4 +1,4 @@
-<h2 align="center">I'm a Project Manager and Software Engineer!!</h2>
+<h2 align="center">I'm a Project Manager and Data Scientist!!</h2>
 
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
 
