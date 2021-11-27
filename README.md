@@ -1,7 +1,7 @@
 <h2 align="center">I'm a Project Manager and Data Scientist!!</h2>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" min-width="340px" max-width="400px" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" min-width="340px" max-width="400px" width="390px" />
 
 
 
