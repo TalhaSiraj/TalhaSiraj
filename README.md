@@ -1,5 +1,8 @@
 <h2 align="center">I'm a Project Manager and Data Scientist!!</h2>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+
+
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
 
 - 🌱 **2021 Goals are to contribute more to open-source projects.**
