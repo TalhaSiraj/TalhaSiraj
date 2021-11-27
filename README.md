@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
-<br>
-
 - 👯 **I’m looking to collaborate with aspiring developers on projects.**
 
 - 🌱 **2021 Goals are to contribute more to open-source projects.**
